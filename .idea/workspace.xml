@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2571d839-36ab-4ddc-835c-a7be4bfe2606" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/丑数.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/二分查找/旋转数组的最小数字.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据流中的中位数.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/滑动窗口的最大值.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/用两个栈实现队列.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/递归/重建二叉树.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="2571d839-36ab-4ddc-835c-a7be4bfe2606" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,6 +87,16 @@
             <path>
               <item name="Target Offer" type="b2602c69:ProjectViewProjectNode" />
               <item name="Target Offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Target Offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Target Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="双指针" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Target Offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Target Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="递归" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
