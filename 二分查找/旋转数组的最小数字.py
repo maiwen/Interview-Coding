@@ -23,7 +23,7 @@ class Solution:
             if rotateArray[mid] > rotateArray[mid+1]:
                 return rotateArray[mid+1]
             if rotateArray[mid] > rotateArray[0]:
-                low += 1
+                low = mid + 1
             else:
-                high -= 1
+                high = mid
         return rotateArray[0]
