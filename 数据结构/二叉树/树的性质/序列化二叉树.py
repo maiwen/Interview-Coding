@@ -9,11 +9,11 @@ Created on 2018/8/8 11:38
 
 
 # -*- coding:utf-8 -*-
-# class TreeNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.left = None
-#         self.right = None
+class TreeNode:
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
 class Solution:
     def Serialize(self, root):
         # write code here
