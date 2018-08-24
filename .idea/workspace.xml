@@ -2,92 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2571d839-36ab-4ddc-835c-a7be4bfe2606" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/二分查找/153. Find Minimum in Rotated Sorted Array.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/二分查找/34. Search for a Range.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/二分查找/69. Sqrt(x).py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/二分查找/74. Search a 2D Matrix.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/动态规划/121. Best Time to Buy and Sell Stock.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/动态规划/122. Best Time to Buy and Sell Stock II.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/双指针/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/回溯法/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数学/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数学/高精度/2. Add Two Numbers.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数学/高精度/415. Add Strings.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数学/高精度/445. Add Two Numbers II.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数学/高精度/67. Add Binary.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数学/高精度/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数学/高精度/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/二叉查找树/108. Convert Sorted Array to Binary Search Tree.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/二叉查找树/669. Trim a Binary Search Tree.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/二叉查找树/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/二叉查找树/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的性质/101. Symmetric Tree.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的性质/104. Maximum Depth of Binary Tree.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的性质/110. Balanced Binary Tree.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的性质/111. Minimum Depth of Binary Tree.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的性质/572. Subtree of Another Tree.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的性质/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的性质/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的构造/105. Construct Binary Tree from Preorder and Inorder Traversal.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的构造/106. Construct Binary Tree from Inorder and Postorder Traversal.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的构造/108. Convert Sorted Array to Binary Search Tree.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的构造/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的构造/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的求和/112. Path Sum.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的求和/437. Path Sum III.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的求和/62. Unique Paths.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的求和/64. Minimum Path Sum.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的求和/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的求和/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的遍历/144. Binary Tree Preorder Traversal.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的遍历/145. Binary Tree Postorder Traversal.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的遍历/94. Binary Tree Inorder Traversal.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的遍历/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的遍历/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/图/127. Word Ladder.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/图/128. Longest Consecutive Sequence.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/图/130. Surrounded Regions.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/图/133. Clone Graph.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/图/79. Word Search.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/图/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/图/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/数组/KSum.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/数组/矩阵/240. Search a 2D Matrix II.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/数组/矩阵/661. Image Smoother.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/数组/矩阵/695. Max Area of Island.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/数组/矩阵/74. Search a 2D Matrix.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/数组/矩阵/766. Toeplitz Matrix.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/数组/矩阵/832. Flipping an Image.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/数组/矩阵/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/数组/矩阵/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/链表/21. Merge Two Sorted Lists.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据结构/链表/88. Merge Sorted Array.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/递归/readme.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/二分查找/readme.md" afterPath="$PROJECT_DIR$/二分查找/readme.md" />
-      <change beforePath="$PROJECT_DIR$/位运算/readme.md" afterPath="$PROJECT_DIR$/位运算/readme.md" />
-      <change beforePath="$PROJECT_DIR$/动态规划/readme.md" afterPath="$PROJECT_DIR$/动态规划/readme.md" />
-      <change beforePath="$PROJECT_DIR$/双指针/Two Sum II - Input array is sorted.py" afterPath="$PROJECT_DIR$/双指针/Two Sum II - Input array is sorted.py" />
-      <change beforePath="$PROJECT_DIR$/回溯法/机器人的运动范围.py" afterPath="$PROJECT_DIR$/回溯法/机器人的运动范围.py" />
-      <change beforePath="$PROJECT_DIR$/数据结构/二叉树/从上往下打印二叉树.py" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的遍历/从上往下打印二叉树.py" />
-      <change beforePath="$PROJECT_DIR$/数据结构/二叉树/把二叉树打印成多行.py" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的遍历/把二叉树打印成多行.py" />
-      <change beforePath="$PROJECT_DIR$/数据结构/二叉树/按之字形顺序打印二叉树.py" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的遍历/按之字形顺序打印二叉树.py" />
-      <change beforePath="$PROJECT_DIR$/数据结构/数组/顺时针打印矩阵.py" afterPath="$PROJECT_DIR$/数据结构/数组/矩阵/顺时针打印矩阵.py" />
-      <change beforePath="$PROJECT_DIR$/数据结构/链表/README.md" afterPath="$PROJECT_DIR$/数据结构/链表/一维数据合并.md" />
-      <change beforePath="$PROJECT_DIR$/递归/二叉搜索树与双向链表.py" afterPath="$PROJECT_DIR$/数据结构/二叉树/二叉查找树/二叉搜索树与双向链表.py" />
-      <change beforePath="$PROJECT_DIR$/递归/二叉搜索树的后序遍历序列.py" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的遍历/二叉搜索树的后序遍历序列.py" />
-      <change beforePath="$PROJECT_DIR$/递归/二叉搜索树的第k个结点.py" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的遍历/二叉搜索树的第k个结点.py" />
-      <change beforePath="$PROJECT_DIR$/递归/二叉树中和为某一值的路径.py" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的求和/二叉树中和为某一值的路径.py" />
-      <change beforePath="$PROJECT_DIR$/递归/二叉树的下一个结点.py" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的遍历/二叉树的下一个结点.py" />
-      <change beforePath="$PROJECT_DIR$/递归/二叉树的深度.py" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的性质/二叉树的深度.py" />
-      <change beforePath="$PROJECT_DIR$/递归/二叉树的镜像.py" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的性质/二叉树的镜像.py" />
-      <change beforePath="$PROJECT_DIR$/递归/合并两个排序的链表.py" afterPath="$PROJECT_DIR$/数据结构/链表/合并两个排序的链表.py" />
-      <change beforePath="$PROJECT_DIR$/递归/对称的二叉树.py" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的性质/对称的二叉树.py" />
-      <change beforePath="$PROJECT_DIR$/递归/平衡二叉树.py" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的性质/平衡二叉树.py" />
-      <change beforePath="$PROJECT_DIR$/递归/序列化二叉树.py" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的性质/序列化二叉树.py" />
-      <change beforePath="$PROJECT_DIR$/递归/树的子结构.py" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的性质/树的子结构.py" />
-      <change beforePath="$PROJECT_DIR$/递归/重建二叉树.py" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的构造/重建二叉树.py" />
+      <change beforePath="$PROJECT_DIR$/数据结构/二叉树/230. Kth Smallest Element in a BST.py" afterPath="$PROJECT_DIR$/数据结构/二叉树/树的遍历/230. Kth Smallest Element in a BST.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -97,18 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/动态规划/readme.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -201,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,11 +112,28 @@
               <item name="Target Offer" type="b2602c69:ProjectViewProjectNode" />
               <item name="Target Offer" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Target Offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Target Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Target Offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Target Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Target Offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Target Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉树" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,19 +142,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vincent\Documents\GitHub\Target Offer\数据结构\二叉树\树的遍历" />
+      <recent name="C:\Users\vincent\Documents\GitHub\Target Offer\数据结构\链表" />
+      <recent name="C:\Users\vincent\Documents\GitHub\Target Offer\数据结构\数组\矩阵" />
+      <recent name="C:\Users\vincent\Documents\GitHub\Target Offer\数学\高精度" />
+      <recent name="C:\Users\vincent\Documents\GitHub\Target Offer\数据结构\二叉树\树的性质" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vincent\Documents\GitHub\Target Offer\数据结构\图" />
       <recent name="C:\Users\vincent\Documents\GitHub\Target Offer\数据结构\数组\矩阵" />
       <recent name="C:\Users\vincent\Documents\GitHub\Target Offer\数学\高精度" />
       <recent name="C:\Users\vincent\Documents\GitHub\Target Offer\数据结构\链表" />
       <recent name="C:\Users\vincent\Documents\GitHub\Target Offer\数据结构\数组" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\vincent\Documents\GitHub\Target Offer\数据结构\链表" />
-      <recent name="C:\Users\vincent\Documents\GitHub\Target Offer\数据结构\数组\矩阵" />
-      <recent name="C:\Users\vincent\Documents\GitHub\Target Offer\数学\高精度" />
-      <recent name="C:\Users\vincent\Documents\GitHub\Target Offer\数据结构\二叉树\树的遍历" />
-      <recent name="C:\Users\vincent\Documents\GitHub\Target Offer\数据结构\二叉树\树的性质" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -314,13 +234,13 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -329,6 +249,25 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -338,43 +277,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/数据结构/二叉树/树的性质/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构/二叉树/树的构造/108. Convert Sorted Array to Binary Search Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构/二叉树/树的性质/平衡二叉树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构/二叉树/树的性质/树的子结构.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="76" lean-forward="false" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数据结构/二叉树/树的性质/101. Symmetric Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="43" column="55" lean-forward="true" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -382,7 +288,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -390,7 +295,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -398,7 +302,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -406,7 +309,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -414,7 +316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -422,7 +323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -430,7 +330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -438,7 +337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="43">
           <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -446,7 +344,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -454,7 +351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -462,7 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -470,7 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -478,7 +372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -486,7 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="556">
           <caret line="29" column="15" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -494,7 +386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-632">
           <caret line="6" column="123" lean-forward="false" selection-start-line="6" selection-start-column="121" selection-end-line="6" selection-end-column="123" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -502,7 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -510,7 +400,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="15" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -518,7 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -526,7 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-119">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -534,7 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -542,7 +428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="502">
           <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -550,7 +435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="24" column="91" lean-forward="false" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="91" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -558,7 +442,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -566,7 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -574,7 +456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -582,7 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -590,7 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -598,7 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-92">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -606,7 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -614,7 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
           <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -622,7 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -630,7 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
           <caret line="38" column="45" lean-forward="false" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -638,7 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -646,7 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -654,7 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="18" column="61" lean-forward="false" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -662,7 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -670,7 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -678,7 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -686,7 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="34" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -694,7 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="839">
           <caret line="65" column="46" lean-forward="true" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -702,23 +568,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构/图/126. Word Ladder II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="785">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构/图/126. Word Ladder II.py" />
     <entry file="file://$PROJECT_DIR$/数据结构/图/128. Longest Consecutive Sequence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1998">
           <caret line="74" column="30" lean-forward="false" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,7 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
           <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,14 +590,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="758">
           <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="74" column="7" lean-forward="true" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/动态规划/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构/二叉树/树的遍历/230. Kth Smallest Element in a BST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-891">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
