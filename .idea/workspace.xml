@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2571d839-36ab-4ddc-835c-a7be4bfe2606" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/二分查找/readme.md" afterPath="$PROJECT_DIR$/二分查找/readme.md" />
+      <change beforePath="$PROJECT_DIR$/回溯法/readme.md" afterPath="$PROJECT_DIR$/回溯法/readme.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/二分查找/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="52" column="4" lean-forward="false" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+            <state relative-caret-position="162">
+              <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/回溯法/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -38,7 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/替换空格.py" />
         <option value="$PROJECT_DIR$/回溯法/矩阵中的路径.py" />
         <option value="$PROJECT_DIR$/位运算/不用加减乘除做加法.py" />
         <option value="$PROJECT_DIR$/位运算/不用加减乘除做加法.java" />
@@ -89,6 +99,7 @@
         <option value="$PROJECT_DIR$/数据结构/栈/栈的压入、弹出序列.py" />
         <option value="$PROJECT_DIR$/数据结构/链表/一维数据合并.md" />
         <option value="$PROJECT_DIR$/二分查找/readme.md" />
+        <option value="$PROJECT_DIR$/回溯法/readme.md" />
       </list>
     </option>
   </component>
@@ -132,6 +143,11 @@
               <item name="Target Offer" type="b2602c69:ProjectViewProjectNode" />
               <item name="Target Offer" type="462c0819:PsiDirectoryNode" />
               <item name="位运算" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Target Offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Target Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="回溯法" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -283,13 +299,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/数学/丑数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数学/readme.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
@@ -637,8 +646,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/二分查找/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="52" column="4" lean-forward="false" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+        <state relative-caret-position="162">
+          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/回溯法/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
           <folding />
         </state>
       </provider>
