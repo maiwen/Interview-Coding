@@ -14,6 +14,7 @@ Search in Rotated Sorted Array II
 
 这类题目基本可以分为如下四种题型：
 1. Search Insert Position和Search for a Range是考察二分查找的基本用法。基本思路是每次取中间，如果等于目标即返回，否则根据大小关系切去一半，因此时间复杂度是O(logn)，空间复杂度O(1)。以Search Insert Position为例，其关键代码写法如下：
+    ```
     int l = 0;
     int r = A.length-1;
     while(l<=r)
@@ -27,7 +28,9 @@ Search in Rotated Sorted Array II
             r = mid-1;
     }
     return l;
+    ```
 这样当循环停下来时，如果不是正好找到target，l指向的元素恰好大于target，r指向的元素恰好小于target，这里l和r可能越界，不过如果越界就说明大于（小于）target并且是最大（最小）。Search for a Range这道题能更好的解释这一点。其思路是先用二分查找找到其中一个target，然后再往左右找到target的边缘。我们主要看找边缘（往后找）的代码：
+    ```
     int newL = m;
     int newR = A.length-1;
     while(newL<=newR)
@@ -43,9 +46,11 @@ Search in Rotated Sorted Array II
         }
     }
     res[1]=newR;
+    ```
 我们的目标是在后面找到target的右边界，因为左边界已经等于target，所以判断条件是相等则向右看，大于则向左看，根据上面说的，循环停下来时，l指向的元素应该恰好大于target，r指向的元素应该等于target，所以此时的r正是我们想要的。向前找边缘也同理。
 
 2. Sqrt(x)是数值处理的题目，但同时也可以用二分查找的思想来解决。因为我们知道结果的范围，取定左界和右界，然后每次砍掉不满足条件的一半，直到左界和右界相遇。算法的时间复杂度是O(logx)，空间复杂度是O(1)。这里同样是考察二分查找的基本用法。代码如下：
+```
 public int sqrt(int x) {
     if(x<0) return -1;
     if(x==0) return 0;
@@ -67,7 +72,9 @@ public int sqrt(int x) {
     }
     return 0;
 }
+```
 这里要注意，这里判断相等的条件不是简单的 m == x/m, 而是 m<=x/m && x/(m+1)<m+1, 这是因为输出是整型，sqrt(14)=3 但 3 != 14/3. 所以我们需要一个范围框住结果。另外根据二分查找算法的特性，如果不能正好m==x/m停下，那么r指向的数字将正好是结果取整的值。所以我们也可以这样写：
+```
 public int sqrt(int x) {
     if(x<0) return -1;
     if(x==0) return 0;
@@ -89,6 +96,7 @@ public int sqrt(int x) {
     }
     return r;
 }
+```
 3. Search a 2D Matrix是二分查找算法的多维应用，通过观察不难发现，输入的矩阵行内有序并且行间有序，所以查找只需要先按行查找，定位出在哪一行之后再进行列查找即可，两次二分查找，时间复杂度是O(logm+logn)，空间上只需两个辅助变量，因而是O(1)，这里不再赘述。
 
 4. Search in Rotated Sorted Array和Search in Rotated Sorted Array II算是二分查找算法的一个变体。
