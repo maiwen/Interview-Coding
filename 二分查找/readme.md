@@ -29,7 +29,10 @@ Search in Rotated Sorted Array II
     }
     return l;
     ```
-这样当循环停下来时，如果不是正好找到target，l指向的元素恰好大于target，r指向的元素恰好小于target，这里l和r可能越界，不过如果越界就说明大于（小于）target并且是最大（最小）。Search for a Range这道题能更好的解释这一点。其思路是先用二分查找找到其中一个target，然后再往左右找到target的边缘。我们主要看找边缘（往后找）的代码：
+这样当循环停下来时，如果不是正好找到target，l指向的元素恰好大于target，r指向的元素恰好小于target，这里l和r可能越界，
+不过如果越界就说明大于（小于）target并且是最大（最小）。Search for a Range这道题能更好的解释这一点。其思路是先用二分查找找到其中一个target，
+然后再往左右找到target的边缘。我们主要看找边缘（往后找）的代码：
+
     ```
     int newL = m;
     int newR = A.length-1;
@@ -47,6 +50,7 @@ Search in Rotated Sorted Array II
     }
     res[1]=newR;
     ```
+    
 我们的目标是在后面找到target的右边界，因为左边界已经等于target，所以判断条件是相等则向右看，大于则向左看，根据上面说的，循环停下来时，l指向的元素应该恰好大于target，r指向的元素应该等于target，所以此时的r正是我们想要的。向前找边缘也同理。
 
 2. Sqrt(x)是数值处理的题目，但同时也可以用二分查找的思想来解决。因为我们知道结果的范围，取定左界和右界，然后每次砍掉不满足条件的一半，直到左界和右界相遇。算法的时间复杂度是O(logx)，空间复杂度是O(1)。这里同样是考察二分查找的基本用法。代码如下：
