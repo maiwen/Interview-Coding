@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2571d839-36ab-4ddc-835c-a7be4bfe2606" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/algorithm thoughts.md" afterPath="$PROJECT_DIR$/algorithm thoughts.md" />
-      <change beforePath="$PROJECT_DIR$/位运算/readme.md" afterPath="$PROJECT_DIR$/位运算/readme.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,18 +16,8 @@
       <file leaf-file-name="algorithm thoughts.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/algorithm thoughts.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="576" column="16" lean-forward="true" selection-start-line="576" selection-start-column="16" selection-end-line="576" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/位运算/readme.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="45" />
+            <state relative-caret-position="380">
+              <caret line="436" column="19" lean-forward="true" selection-start-line="436" selection-start-column="19" selection-end-line="436" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -104,10 +93,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -235,7 +224,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -653,8 +642,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm thoughts.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="576" column="16" lean-forward="true" selection-start-line="576" selection-start-column="16" selection-end-line="576" selection-end-column="16" />
+        <state relative-caret-position="380">
+          <caret line="436" column="19" lean-forward="true" selection-start-line="436" selection-start-column="19" selection-end-line="436" selection-end-column="19" />
           <folding />
         </state>
       </provider>
