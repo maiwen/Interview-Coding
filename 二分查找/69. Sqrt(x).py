@@ -24,7 +24,7 @@ class Solution:
         """
         l , h = 0, x
         while l <= h:
-            mid = (h-l) /2
+            mid = (h+l) /2
             sqrt = x / mid
             if mid == sqrt:
                 return mid
