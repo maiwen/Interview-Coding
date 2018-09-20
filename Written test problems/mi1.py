@@ -44,14 +44,6 @@ import re
 
 
 def miHomeGiftBag(p, M):
-    if not p and M == 0:
-        return 1
-    if not p:
-        return 0
-    if len(p) == 1 and p[0] == M:
-        return 1
-    else:
-        return 0
     p.sort()
     result = []
     def helper(start, path, xtarget):
